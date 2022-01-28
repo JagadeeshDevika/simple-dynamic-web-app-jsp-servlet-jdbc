@@ -42,13 +42,14 @@ A Simple SignIn -Sign Up -Forgot Password-JSP-Servlet-JDBC project using Eclipse
 9. Create all necessary **.java, .jsp, and servlet files** by right-clicking on the project name and place them in the appropriate folders as per the MVC pattern.
 
 ![project structure](https://user-images.githubusercontent.com/98513320/151371006-e188eb8c-a004-4a58-9b4e-dbd6ac2c0085.jpg)
+
 ![views](https://user-images.githubusercontent.com/98513320/151371143-f5090fce-08f7-4dcb-ab43-07be1396e88e.jpg)
 
-10. Xml mapping is
+10. **Xml mapping** is
 
 ![xml](https://user-images.githubusercontent.com/98513320/151374106-20c3a195-a2dd-4ad3-848f-2688880908e0.gif)
 
-11.Demo
+11.**Demo**
 
 It's time to see a demo of the above development. Deploy this web application in tomcat server.
 
@@ -56,44 +57,49 @@ Right-click on registration-jsp-servlet-jdbc-example, select:
 
 ![runonserver,gif](https://user-images.githubusercontent.com/98513320/151384734-e850d335-c004-47c3-ace1-cbfe7543c62c.gif)
 
-Home Page:
+**Home Page**:
 
 ![home-jsp](https://user-images.githubusercontent.com/98513320/151380638-61115991-8fde-4391-8ba7-b65dace4c141.gif)
 
-Register Here
+**Register Here**
 
 ![useraccountregister-jsp](https://user-images.githubusercontent.com/98513320/151380888-9f553f18-f954-4b23-9ae6-0cf4f4e921ff.gif)
 
-Successful Registration
+**Successful Registration**
 
 ![registerdetails-jsp](https://user-images.githubusercontent.com/98513320/151382705-a17b4200-3ba6-4616-a910-4614434c069f.gif)
 
-Verfication with Database Record
+**Verfication with Database Record**
 
 ![database](https://user-images.githubusercontent.com/98513320/151381147-5e4bcf2d-a6f2-4d81-ae6b-ec9ca3436521.gif)
 
-Improper Sign Up
+**Improper SignUp**
 
 ![improperregistration](https://user-images.githubusercontent.com/98513320/151381186-089e5ca9-e538-4647-ac2c-264b8ebbd3c3.gif)
+
 ![useraccountnotregistered](https://user-images.githubusercontent.com/98513320/151381289-c42ef8f4-6781-4e88-adc7-0ad6b85a5b32.gif)
 
-SignIn
+**SignIn**
 
 ![signin](https://user-images.githubusercontent.com/98513320/151381384-572fbcfa-c619-4f07-9878-0ec961833683.gif)
+
 ![signinsuccess](https://user-images.githubusercontent.com/98513320/151381455-9cae8881-e071-4551-9d9c-63d800f46cf4.gif)
 
-Improper SignIn
+**Improper SignIn**
 
 ![signinwithmissingdata](https://user-images.githubusercontent.com/98513320/151381501-51f9b792-431d-4c0f-8339-475b52b16a67.gif)
+
 ![signinerror](https://user-images.githubusercontent.com/98513320/151381542-e8491c4a-8c62-4041-84d6-eba2b8c44afb.gif)
 
-Forgot Password
+**Forgot Password**
 
 ![recoverpassword](https://user-images.githubusercontent.com/98513320/151381615-e1e64124-dba3-4243-9df4-26b552e40c66.gif)
+
 ![gettingpassword](https://user-images.githubusercontent.com/98513320/151381697-ec4ff9c4-51d1-4df4-abb3-473ccc31c939.gif)
 
-If Forgot Password form is filled improperly
-
+**If Forgot Password form is filled improperly
+**
 ![improperpassword](https://user-images.githubusercontent.com/98513320/151381727-34a4d450-cd57-4d07-bb39-353bb37e6074.gif)
+
 ![passworderror](https://user-images.githubusercontent.com/98513320/151381774-5b35d044-7ef1-4a59-b620-30fd97c99729.gif)
 
