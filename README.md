@@ -97,8 +97,7 @@ Right-click on registration-jsp-servlet-jdbc-example, select:
 
 ![gettingpassword](https://user-images.githubusercontent.com/98513320/151381697-ec4ff9c4-51d1-4df4-abb3-473ccc31c939.gif)
 
-**If Forgot Password form is filled improperly
-**
+**If Forgot Password form is filled improperly**
 
 ![improperpassword](https://user-images.githubusercontent.com/98513320/151381727-34a4d450-cd57-4d07-bb39-353bb37e6074.gif)
 
