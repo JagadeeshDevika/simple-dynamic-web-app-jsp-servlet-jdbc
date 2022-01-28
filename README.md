@@ -99,6 +99,7 @@ Right-click on registration-jsp-servlet-jdbc-example, select:
 
 **If Forgot Password form is filled improperly
 **
+
 ![improperpassword](https://user-images.githubusercontent.com/98513320/151381727-34a4d450-cd57-4d07-bb39-353bb37e6074.gif)
 
 ![passworderror](https://user-images.githubusercontent.com/98513320/151381774-5b35d044-7ef1-4a59-b620-30fd97c99729.gif)
