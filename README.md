@@ -20,7 +20,7 @@ A Simple SignIn -Sign Up -Forgot Password-JSP-Servlet-JDBC project using Eclipse
 ![4 Dynamic web project](https://user-images.githubusercontent.com/98513320/151336982-e758165b-932f-4696-a340-45e8179228a8.gif)
 ![5 Dynamic web project-created](https://user-images.githubusercontent.com/98513320/151336854-7e494fce-ddd5-4052-b55d-2b80dab041d4.gif)
 
-2. Configure the runtime environment
+2. Configure the runtime environment:Right click the project name-registration-jsp-servlet-jdbc-example-click properties
 ![6 1 Runtime configuration](https://user-images.githubusercontent.com/98513320/151365440-149201e3-4c86-4978-8ab9-3469967f2218.gif)
 ![6 2 Runtime configuration](https://user-images.githubusercontent.com/98513320/151365499-17e28b40-1af7-49f6-9161-7dadd5a37891.gif)
 ![6 3 Runtime configuration](https://user-images.githubusercontent.com/98513320/151365526-c3c6fe72-543a-45ef-8db7-10920aece494.gif)
